@@ -1,6 +1,6 @@
 name := "$name$"
 
-scalaVersion := $scala_version$
+scalaVersion := "$scala_version$"
 
 version := "1.0"
 
