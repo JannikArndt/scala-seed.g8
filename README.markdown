@@ -1,7 +1,7 @@
 This is a [Giter8][g8] template for Scala
 
 ```
-sbt new jannikarndt/scala-seed.g8
+sbt new jannikarndt/scala.g8
 ```
 
 License

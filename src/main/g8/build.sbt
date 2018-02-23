@@ -1,8 +1,8 @@
-name := "MyProject"
+name := "$name"
 
 version := "1.0"
 
-scalaVersion := "2.12.4"
+scalaVersion := "$scala_version"
 
 libraryDependencies ++= Seq(
 )
