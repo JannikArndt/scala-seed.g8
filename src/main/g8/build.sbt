@@ -1,8 +1,8 @@
-name := "$name"
+name := "$name$"
+
+scalaVersion := $scala_version$
 
 version := "1.0"
-
-scalaVersion := $scala_version
 
 libraryDependencies ++= Seq(
 //  "com.typesafe.akka" %% "akka-http" % "10.0.11",
