@@ -8,9 +8,10 @@ libraryDependencies ++= Seq(
 //  "com.typesafe.akka" %% "akka-actor" % "2.5.14",
 //  "com.typesafe.akka" %% "akka-stream" % "2.5.14",
 //  "com.typesafe.akka" %% "akka-cluster" % "2.5.14",
-//  "com.typesafe.akka" %% "akka-testkit" % "2.5.14" % Test,
-
+//  "com.typesafe.akka" %% "akka-persistence" % "2.5.14",
 //  "com.typesafe.akka" %% "akka-http" % "10.1.3",
+
+//  "com.typesafe.akka" %% "akka-testkit" % "2.5.14" % Test,
 //  "com.typesafe.akka" %% "akka-http-testkit" % "10.1.3" % Test,
 
 //  "de.heikoseeberger" %% "akka-http-json4s" % "1.21.0",
@@ -25,5 +26,7 @@ libraryDependencies ++= Seq(
 //  "org.postgresql" % "postgresql" % "42.2.4",
 //  "com.chuusai" %% "shapeless" % "2.3.3",
 //  "io.underscore" %% "slickless" % "0.3.3",
-//  "org.scala-lang.modules" %% "scala-java8-compat" % "0.9.0"
+//  "org.scala-lang.modules" %% "scala-java8-compat" % "0.9.0",
+
+//  "org.slf4j" % "slf4j-simple" % "1.7.25",
 )
