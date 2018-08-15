@@ -28,5 +28,7 @@ libraryDependencies ++= Seq(
 //  "io.underscore" %% "slickless" % "0.3.3",
 //  "org.scala-lang.modules" %% "scala-java8-compat" % "0.9.0",
 
+//  "com.typesafe.scala-logging" %% "scala-logging" % "3.9.0",
+//  "ch.qos.logback" % "logback-classic" % "1.2.3",
 //  "org.slf4j" % "slf4j-simple" % "1.7.25",
 )
