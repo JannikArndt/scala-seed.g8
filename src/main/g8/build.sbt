@@ -15,10 +15,10 @@ libraryDependencies ++= Seq(
   //  "com.typesafe.akka" %% "akka-cluster-metrics" % akkaVersion,
   //  "com.typesafe.akka" %% "akka-persistence" % akkaVersion,
   //  "com.typesafe.akka" %% "akka-contrib" % akkaVersion,
-  //  "com.typesafe.akka" %% "akka-http" % akka_http_version,
+  //  "com.typesafe.akka" %% "akka-http" % akkaHttpVersion,
 
   //  "com.typesafe.akka" %% "akka-testkit" % akkaVersion % Test,
-  //  "com.typesafe.akka" %% "akka-http-testkit" % akka_http_version % Test,
+  //  "com.typesafe.akka" %% "akka-http-testkit" % akkaHttpVersion % Test,
 
   //  "de.heikoseeberger" %% "akka-http-json4s" % "1.21.0",
   //  "org.json4s" %% "json4s-native" % "3.6.0",
