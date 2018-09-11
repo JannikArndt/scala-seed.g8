@@ -20,7 +20,7 @@ libraryDependencies ++= Seq(
   //  "com.typesafe.akka" %% "akka-testkit" % akkaVersion % Test,
   //  "com.typesafe.akka" %% "akka-http-testkit" % akkaHttpVersion % Test,
 
-  //  "de.heikoseeberger" %% "akka-http-json4s" % "1.21.0",
+  //  "de.heikoseeberger" %% "akka-http-json4s" % "1.21.1",
   //  "org.json4s" %% "json4s-native" % "3.6.1",
 
   //  "org.scalatest" %% "scalatest" % "3.0.5" % Test
