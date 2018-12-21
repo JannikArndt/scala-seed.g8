@@ -20,7 +20,7 @@ libraryDependencies ++= Seq(
   //  "com.typesafe.akka" %% "akka-testkit" % akkaVersion % Test,
   //  "com.typesafe.akka" %% "akka-http-testkit" % akkaHttpVersion % Test,
 
-  //  "de.heikoseeberger" %% "akka-http-json4s" % "1.22.0",
+  //  "de.heikoseeberger" %% "akka-http-json4s" % "1.23.0",
   //  "org.json4s" %% "json4s-native" % "3.6.1",
 
   //  "org.scalatest" %% "scalatest" % "3.0.5" % Test
@@ -28,7 +28,7 @@ libraryDependencies ++= Seq(
   //  "com.typesafe.slick" %% "slick" % "3.2.3",
   //  "com.typesafe.slick" %% "slick-hikaricp" % "3.2.3",
 
-  //  "com.typesafe.play" %% "play-json" % "2.6.9",
+  //  "com.typesafe.play" %% "play-json" % "2.6.13",
   //  "org.postgresql" % "postgresql" % "42.2.4",
   //  "com.chuusai" %% "shapeless" % "2.3.3",
   //  "io.underscore" %% "slickless" % "0.3.3",
